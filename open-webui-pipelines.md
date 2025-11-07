@@ -1,11 +1,16 @@
 # open-webui-pipelines Hard-coded permission bypass leads to RCE
 
 **BUG_Author:** H2u8s
+
 **Affected Version:** All Version 
+
 **Vendor:** https://github.com/open-webui/pipelines
+
+
 **Vulnerability Files:**
 - https://github.com/open-webui/pipelines/blob/main/config.py#L23
 - https://github.com/open-webui/pipelines/blob/main/main.py#L387C1-L387C31
+
 
 Similar to CVE-2025-30206, CVE-2024-11619, and CVE-2024-52295, the software repository does not enforce changes to the default authentication key, thus leading to its misuse.
 
