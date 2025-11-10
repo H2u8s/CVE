@@ -331,7 +331,6 @@ We used our forged JWT credentials to attack the local Docker-run nocobase insta
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImlhdCI6MTc2MjMxMDI4MSwiZXhwIjoxNzM2MjIwMTk2MDB9.IiC9Tr-P5j5Vq0vWHV4riiozj2iG3Po8Z6Cf2yBm-3k
 ```
 
-<img width="1535" height="705" alt="图片" src="https://github.com/user-attachments/assets/8f32afea-85bb-438f-863d-4fd0a3afce01" />
 
 
 
